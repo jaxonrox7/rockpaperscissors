@@ -1,1 +1,1 @@
-# rockpaperscissors
+This is a project inspired by The Odin Project. It is a simple game of rock, paper, scissors. The game will exucute five times, display who one every round, and display the overall winner.
